@@ -1,0 +1,25 @@
+# ---------------- vscode
+.vscode
+
+
+# ---------------- python
+.ipynb_checkpoints/
+
+
+# ---------------- node
+node_modules/*
+
+
+# ---------------- images
+*.png
+
+
+# ---------------- data
+*.csv
+*.xlsx
+
+data/*
+dump_models/*
+dump_csvs/*
+node_modules/*
+mlruns/*
